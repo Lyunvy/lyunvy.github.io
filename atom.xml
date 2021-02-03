@@ -3,11 +3,11 @@
   <title>Lyunvy&#39;s Blog</title>
   
   
-  <link href="http://8.131.246.55/atom.xml" rel="self"/>
+  <link href="https://blog.lyunvy.tk/atom.xml" rel="self"/>
   
-  <link href="http://8.131.246.55/"/>
+  <link href="https://blog.lyunvy.tk/"/>
   <updated>2021-02-02T20:06:26.824Z</updated>
-  <id>http://8.131.246.55/</id>
+  <id>https://blog.lyunvy.tk/</id>
   
   <author>
     <name>Lyunvy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何搭建一个个人博客</title>
-    <link href="http://8.131.246.55/2021/02/03/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://8.131.246.55/2021/02/03/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blog.lyunvy.tk/2021/02/03/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.lyunvy.tk/2021/02/03/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-02-02T18:51:47.000Z</published>
     <updated>2021-02-02T20:06:26.824Z</updated>
     
@@ -31,10 +31,10 @@
     
     
     
-    <category term="interest" scheme="http://8.131.246.55/categories/interest/"/>
+    <category term="interest" scheme="https://blog.lyunvy.tk/categories/interest/"/>
     
     
-    <category term="interest" scheme="http://8.131.246.55/tags/interest/"/>
+    <category term="interest" scheme="https://blog.lyunvy.tk/tags/interest/"/>
     
   </entry>
   
