@@ -5,6 +5,7 @@ categories:
 tags:
   - Blog 搭建
 toc: true
+translate_title: hexogithub-blog-building
 date: 2021-02-06 20:30:40
 sidebar:
 ---
@@ -178,7 +179,6 @@ sidebar:
         - '*.min.js' 
     ```
 
-
 ## 连接Github与本地
 
 - 打开git bash，然后输入下面命令：
@@ -238,3 +238,5 @@ hexo new <title>
 
 
 预告~下一篇：Hexo-GitHub博客搭建
+
+<script data-ad-client="ca-pub-8268191184514692" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
