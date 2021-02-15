@@ -6,7 +6,7 @@
   <link href="https://lyunvy.tk/atom.xml" rel="self"/>
   
   <link href="https://lyunvy.tk/"/>
-  <updated>2021-02-15T12:15:18.743Z</updated>
+  <updated>2021-02-15T13:34:01.781Z</updated>
   <id>https://lyunvy.tk/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对舆论的一丁点儿感受</title>
+    <link href="https://lyunvy.tk/a-little-bit-of-public-opinion/"/>
+    <id>https://lyunvy.tk/a-little-bit-of-public-opinion/</id>
+    <published>2021-02-15T13:33:08.000Z</published>
+    <updated>2021-02-15T13:34:01.781Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;当今的网络环境看起来越来越糟糕了，诸如老人跌倒扶了反被讹之类的极度考验人性的事情充斥在获得的信息中，不免觉得这世界太黑暗了。然而，在没有网络时就没有这些东西吗？当然，太阳地下没有新鲜事，糟糕的东西也并不是网络的出现带来的，它们一直都在，只是在信息传递不方便的时候我们没有看到</summary>
+      
+    
+    
+    
+    <category term="叨叨" scheme="https://lyunvy.tk/categories/%E5%8F%A8%E5%8F%A8/"/>
+    
+    
+    <category term="舆论" scheme="https://lyunvy.tk/tags/%E8%88%86%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo-GitHub博客搭建</title>
     <link href="https://lyunvy.tk/hexogithub-blog-building/"/>
     <id>https://lyunvy.tk/hexogithub-blog-building/</id>
     <published>2021-02-06T12:30:40.000Z</published>
-    <updated>2021-02-15T12:15:18.743Z</updated>
+    <updated>2021-02-15T13:15:19.027Z</updated>
     
     
       
