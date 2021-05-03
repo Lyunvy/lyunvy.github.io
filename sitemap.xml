@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lyunvy.tk/git-note/</loc>
+    <loc>https://lyunvy.tk/</loc>
+    
+    <lastmod>2021-05-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lyunvy.tk/</loc>
     
     <lastmod>2021-05-03</lastmod>
     
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://lyunvy.tk/hexogithub-blog-building/</loc>
-    
-    <lastmod>2021-03-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/</loc>
     
     <lastmod>2021-03-04</lastmod>
     
@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>https://lyunvy.tk/tags/Blog-%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2021-05-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lyunvy.tk/tags/git/</loc>
     <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
@@ -89,6 +82,13 @@
   
   <url>
     <loc>https://lyunvy.tk/tags/%E8%88%86%E8%AE%BA/</loc>
+    <lastmod>2021-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lyunvy.tk/tags/Blog-%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
