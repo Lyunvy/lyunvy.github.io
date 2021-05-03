@@ -6,7 +6,7 @@
   <link href="https://lyunvy.tk/atom.xml" rel="self"/>
   
   <link href="https://lyunvy.tk/"/>
-  <updated>2021-03-04T16:04:29.042Z</updated>
+  <updated>2021-05-03T12:19:25.722Z</updated>
   <id>https://lyunvy.tk/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git note</title>
+    <link href="https://lyunvy.tk/git-note/"/>
+    <id>https://lyunvy.tk/git-note/</id>
+    <published>2021-05-03T12:18:26.000Z</published>
+    <updated>2021-05-03T12:19:25.722Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;仅仅是一些个人认为有可能会遇到的问题&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="technology" scheme="https://lyunvy.tk/categories/technology/"/>
+    
+    
+    <category term="git" scheme="https://lyunvy.tk/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>对舆论的一丁点儿感受</title>
@@ -56,8 +75,8 @@
   
   <entry>
     <title>无需代码搭建一个最简单的个人博客</title>
-    <link href="https://lyunvy.tk/no-need-to-code-build-the-simplest-personal-blog/"/>
-    <id>https://lyunvy.tk/no-need-to-code-build-the-simplest-personal-blog/</id>
+    <link href="https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/"/>
+    <id>https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/</id>
     <published>2021-02-02T18:51:47.000Z</published>
     <updated>2021-03-04T15:56:29.110Z</updated>
     
