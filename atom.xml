@@ -6,7 +6,7 @@
   <link href="https://lyunvy.tk/atom.xml" rel="self"/>
   
   <link href="https://lyunvy.tk/"/>
-  <updated>2021-05-03T12:21:59.435Z</updated>
+  <updated>2021-05-03T12:25:26.861Z</updated>
   <id>https://lyunvy.tk/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>git note</title>
-    <link href="https://lyunvy.tk/"/>
-    <id>https://lyunvy.tk/</id>
+    <title>Git note</title>
+    <link href="https://lyunvy.tk/git-note/"/>
+    <id>https://lyunvy.tk/git-note/</id>
     <published>2021-05-03T12:18:26.000Z</published>
-    <updated>2021-05-03T12:21:59.435Z</updated>
+    <updated>2021-05-03T12:25:26.861Z</updated>
     
     
     <summary type="html">&lt;p&gt;仅仅是一些个人认为有可能会遇到的问题&lt;/p&gt;</summary>
@@ -75,8 +75,8 @@
   
   <entry>
     <title>无需代码搭建一个最简单的个人博客</title>
-    <link href="https://lyunvy.tk/"/>
-    <id>https://lyunvy.tk/</id>
+    <link href="https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/"/>
+    <id>https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/</id>
     <published>2021-02-02T18:51:47.000Z</published>
     <updated>2021-05-03T12:21:59.700Z</updated>
     
