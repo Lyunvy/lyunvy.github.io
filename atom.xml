@@ -6,7 +6,7 @@
   <link href="https://lyunvy.tk/atom.xml" rel="self"/>
   
   <link href="https://lyunvy.tk/"/>
-  <updated>2021-05-03T12:32:06.110Z</updated>
+  <updated>2021-05-13T15:58:22.960Z</updated>
   <id>https://lyunvy.tk/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>憧憬一下未来的教育方式</title>
+    <link href="https://lyunvy.tk/look-forward-to-the-way-of-education-in-future/"/>
+    <id>https://lyunvy.tk/look-forward-to-the-way-of-education-in-future/</id>
+    <published>2021-05-13T15:56:07.000Z</published>
+    <updated>2021-05-13T15:58:22.960Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;学校应该是或者说本来就是学生的地方，学生的选择便是大势所向。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="叨叨" scheme="https://lyunvy.tk/categories/%E5%8F%A8%E5%8F%A8/"/>
+    
+    
+    <category term="教育" scheme="https://lyunvy.tk/tags/%E6%95%99%E8%82%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>Git note</title>
@@ -75,8 +94,8 @@
   
   <entry>
     <title>无需代码搭建一个最简单的个人博客</title>
-    <link href="https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/"/>
-    <id>https://lyunvy.tk/no-code-needed-to-build-the-simplest-personal-blog/</id>
+    <link href="https://lyunvy.tk/no-need-to-code-build-the-simplest-personal-blog/"/>
+    <id>https://lyunvy.tk/no-need-to-code-build-the-simplest-personal-blog/</id>
     <published>2021-02-02T18:51:47.000Z</published>
     <updated>2021-05-03T12:21:59.700Z</updated>
     
